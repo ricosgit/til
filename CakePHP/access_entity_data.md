@@ -15,11 +15,22 @@ echo $article->title;
 $article->get('title');
 ```
 
+## ネストされたデータの取得
+複数回getメソッド使用することで取得できる。
+```php
+$article->get('article')->get('title');
+```
 
 ## エンティティへのデータ追加
 既存のエンティティへデータを追加するにはsetメソッドを使用する。
 ```php
 $article->set('title', 'This is my first post');
+```
+
+## ネストされたデータの保存
+getメソッド使用後にsetメソッドを使用することで保存できる。
+```php
+$article->get('article')->set('title', '記事タイトル');
 ```
 
 ## 参考
