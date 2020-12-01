@@ -1,4 +1,6 @@
 # til
+[2020-12-02 重複を除いた集積関数の使用](MySQL/use_aggregate_function_without_duplicate.md)
+
 [2020-12-01 （更新）エンティティデータへのアクセス](CakePHP/access_entity_data.md)
 
 [2020-12-01 ファイル名から拡張子を切り出す](PHP/get_extension.md)
