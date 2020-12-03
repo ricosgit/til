@@ -1,4 +1,6 @@
 # til
+[2020-12-03 動的に追加した要素にjQueryイベントを発火させる方法](jQuery/make_dynamic_element_ignite.md)
+
 [2020-12-03 別nameのラジオボタンを紐付け](jQuery/grouping_another_name_radio.md)
 
 [2020-12-01 重複を除いた集積関数の使用](MySQL/use_aggregate_function_without_duplicate.md)
