@@ -1,4 +1,6 @@
 # til
+[2020-12-07 mac,chromeでSOCKSプロキシ設定](Network/proxy_setting_chrome_mac.md)
+
 [2020-12-05 ターミナルの出力をクリップボードにコピー](Shell/copy_terminal_output.md)
 
 [2020-12-05 Contents Security Policy](JavaScript/contents_security_policy.md)
