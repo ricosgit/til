@@ -1,11 +1,10 @@
 # GROUP BY句、HAVING句について
-
+<br>
 
 ## GROUP BY句
-
+<br>
 
 ### 実行順序
-
 以下のようなgroup by/where句を使用したSQLを実行したとき、
 ```sql
 SELECT column, COUNT(*)
@@ -18,7 +17,6 @@ GROUP BY column;
 ```
 FROM → WHERE → GROUP BY → SELECT
 ```
-
 となる。
 記述順に
 ```
@@ -26,17 +24,17 @@ FROM → WHERE → GROUP BY → SELECT
 SELECT → FROM → WHERE → GROUP BY
 ```
 と実行されるわけではないので注意。
-
+<br>
 
 ### GROUP BY使用時にSELECT文にかけるもの
 - 定数（文字列や数値）
 - 集約関数（max(), count()等）
 - GROUP BY句で指定した列名（集約キー）
 これ以外を指定するとエラーになる。
-
+<br>
 
 ## HAVING句
-
+<br>
 
 ### 使い方
 GROUP BY句を使用してグループ分けをした後、そのグループに対して条件を指定したい時に使用できる。
@@ -46,7 +44,6 @@ GROUP BY句を使用してグループ分けをした後、そのグループに
 - 集約関数（max(), count()等）
 - GROUP BY句で指定した列名（集約キー）
 
-
 例）
 集約した結果のレコード数が2行になるようなグループを取得したい
 ```sql
@@ -55,14 +52,14 @@ SELECT column1, COUNT(*)
 GROUP BY column1
 HAVING COUNT(*) = 2;
 ```
-
+<br>
 
 ### 実行順序
 上記のSQLを実行した場合の実行順序は
 ```
 SELECT → FROM → WHERE → GROUP BY → HAVING
 ```
-
+<br>
 
 ### WHERE句とHAVING句
 集約キーに関する条件はWHERE句、HAVING句のどちらでも指定できる。
