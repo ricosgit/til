@@ -1,7 +1,9 @@
 # til
-[2020-12-09 別テーブルからデータをコピー](MySQL/copy_data_from_other_table.md)
+[2020-12-10 トランザクション](SQL/transaction.md)
 
-[2020-12-09 GROUP BY句、HAVING句について](MySQL/group_by_and_having_clause.md)
+[2020-12-09 別テーブルからデータをコピー](SQL/copy_data_from_other_table.md)
+
+[2020-12-09 GROUP BY句、HAVING句について](SQL/group_by_and_having_clause.md)
 
 [2020-12-07 mac,chromeでSOCKSプロキシ設定](Network/proxy_setting_chrome_mac.md)
 
@@ -13,7 +15,7 @@
 
 [2020-12-03 別nameのラジオボタンを紐付け](jQuery/grouping_another_name_radio.md)
 
-[2020-12-01 重複を除いた集積関数の使用](MySQL/use_aggregate_function_without_duplicate.md)
+[2020-12-01 重複を除いた集積関数の使用](SQL/use_aggregate_function_without_duplicate.md)
 
 [2020-12-30 （更新）エンティティデータへのアクセス](CakePHP/access_entity_data.md)
 
