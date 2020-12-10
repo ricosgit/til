@@ -1,4 +1,6 @@
 # til
+[2020-12-10 ビュー](SQL/view.md)
+
 [2020-12-10 トランザクション](SQL/transaction.md)
 
 [2020-12-09 別テーブルからデータをコピー](SQL/copy_data_from_other_table.md)
