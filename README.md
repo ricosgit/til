@@ -1,4 +1,6 @@
 # til
+[2020-12-12 youtubeでOAuth認証を使用する](PHP/oauth_youtube.md)
+
 [2020-12-12 CASE式](SQL/case.md)
 
 [2020-12-11 サブクエリ](SQL/sub_query.md)
