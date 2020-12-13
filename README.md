@@ -1,4 +1,6 @@
 # til
+[2020-12-12 集合演算](SQL/set_operation.md)
+
 [2020-12-12 CASE式](SQL/case.md)
 
 [2020-12-11 サブクエリ](SQL/sub_query.md)
