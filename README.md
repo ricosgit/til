@@ -1,4 +1,6 @@
 # til
+[2020-12-16 GROUPING演算子](SQL/grouping_operator.md)
+
 [2020-12-14 ウィンドウ関数](SQL/window_function.md)
 
 [2020-12-13 結合](SQL/join.md)
