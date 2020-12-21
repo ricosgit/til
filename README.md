@@ -1,4 +1,6 @@
 # til
+[2020-12-21 日付オブジェクトを使用して日付の計算をする](JavaScript/date_calculation.md)
+
 [2020-12-19 ライングループにコメントを投下するLINEbotを作成](API/create_linebot_to_group_chat.md)
 
 [2020-12-16 GROUPING演算子](SQL/grouping_operator.md)
