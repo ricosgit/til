@@ -1,4 +1,6 @@
 # til
+[2020-12-27 javascriptの判定](Javascript/judgment.md)
+
 [2020-12-27 javascriptの条件分岐](Javascript/conditional_branch.md)
 
 [2020-12-27 javascriptのループ処理](Javascript/loop.md)
