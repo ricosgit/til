@@ -1,4 +1,6 @@
 # til
+[2020-12-27 誤解されない名前](Thinking/name_isnt_misunderstood.md)
+
 [2020-12-26 名前に情報を詰め込む](Thinking/cram_info_to_name.md)
 
 [2020-12-26 ファイルアップロード時に「ファイルのアップロードに失敗しました」と出る](PHP/Laravel/max_file_upload.md)
