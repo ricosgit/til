@@ -1,4 +1,6 @@
 # til
+[2020-12-26 ファイルアップロード時に「ファイルのアップロードに失敗しました」と出る](PHP/Laravel/max_file_upload.md)
+
 [2020-12-21 日付オブジェクトを使用して日付の計算をする](JavaScript/date_calculation.md)
 
 [2020-12-19 ライングループにコメントを投下するLINEbotを作成](API/create_linebot_to_group_chat.md)
@@ -37,7 +39,7 @@
 
 [2020-12-01 重複を除いた集積関数の使用](SQL/use_aggregate_function_without_duplicate.md)
 
-[2020-12-30 （更新）エンティティデータへのアクセス](CakePHP/access_entity_data.md)
+[2020-12-30 （更新）エンティティデータへのアクセス](PHP/CakePHP/access_entity_data.md)
 
 [2020-12-30 ファイル名から拡張子を切り出す](PHP/get_extension.md)
 
