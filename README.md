@@ -1,4 +1,6 @@
 # til
+[2020-12-26 名前に情報を詰め込む](Thinking/cram_info_to_name.md)
+
 [2020-12-26 ファイルアップロード時に「ファイルのアップロードに失敗しました」と出る](PHP/Laravel/max_file_upload.md)
 
 [2020-12-21 日付オブジェクトを使用して日付の計算をする](JavaScript/date_calculation.md)
