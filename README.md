@@ -1,5 +1,5 @@
 # til
-[2021-01-15 コメントすべきこと](Thinking/what_should_be_commented.md)
+[2021-01-15 コメント](Thinking/comment.md)
 
 [2021-01-12 コードの美しさ](Thinking/beauty.md)
 
