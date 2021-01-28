@@ -1,4 +1,6 @@
 # til
+[2021-01-28 CASE式（更新）](SQL/case.md)
+
 [2021-01-15 コメント](Thinking/comment.md)
 
 [2021-01-12 コードの美しさ](Thinking/beauty.md)
